@@ -73,6 +73,8 @@ El termómetro digital DS18B20 provee lecturas de temperatura en Celsius entre 9
 
 Se graficaron cada uno de los datos de cada sensor obteniendo:
 
+¡[alt text] (https://github.com/Santocoyo/Comparison-of-sensitivity-of-temperature-sensors-LM35-and-DS18B20/blob/master/Images/DS18B20%20graph.png) 
+
 Considerando que la lectura de datos consistió en 2 minutos a temperatura ambiente, 2 minutos en agua fría y 2 minutos en agua caliente, se puede observar en cada gráfica una baja en la temperatura seguida de una subida, ambas con comportamiento asintótico hasta cierta temperatura de equilibrio.
 
 Observando mejor las gráficas se puede notar que tanto en la bajada como en la subida de temperatura, el sensor DS18B20 tiene una pendiente mucho más pronunciada que la del sensor LM35, la pendiente indica que el cambio de la temperatura con respecto al tiempo es mayor en el sensor DS18B20, al momento de sumergirlos en al agua caliente, los datos indican que el sensor DS18B20 alcanzó la temperatura de estabilización casi inmediatamente, en cambio, el sensor LM35 requiere más tiempo para lograr estabilizar la lectura de temperatura.
