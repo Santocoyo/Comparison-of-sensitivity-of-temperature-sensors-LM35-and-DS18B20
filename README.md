@@ -73,7 +73,7 @@ El termómetro digital DS18B20 provee lecturas de temperatura en Celsius entre 9
 
 Se graficaron cada uno de los datos de cada sensor obteniendo:
 
-¡[alt text] (https://github.com/Santocoyo/Comparison-of-sensitivity-of-temperature-sensors-LM35-and-DS18B20/blob/master/Images/DS18B20%20graph.png) 
+¡[alt text] (https://raw.githubusercontent.com/Santocoyo/Comparison-of-sensitivity-of-temperature-sensors-LM35-and-DS18B20/master/Images/DS18B20%20graph.png) 
 
 Considerando que la lectura de datos consistió en 2 minutos a temperatura ambiente, 2 minutos en agua fría y 2 minutos en agua caliente, se puede observar en cada gráfica una baja en la temperatura seguida de una subida, ambas con comportamiento asintótico hasta cierta temperatura de equilibrio.
 
